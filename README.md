@@ -2,10 +2,12 @@
 - 👀 I’m interested in LORD JESUS, Bitcoin, Nostr, eSats, Advanced Manufacturing, Robotics, AI, Mechatronics, other Freedom Tech & Tools
 - 🌱 I’m currently learning the above interests
 - 💞️ I’m looking to collaborate on ther above interets
-- 📫 How to reach me: Nostr - npub14cgq353exzmhdsvqjtmw4dq7fvyleuls8umyrvd5umhr4gtx6asq7hqjhl
+- 📫 How to reach me: Nostr - [npub14cgq353exzmhdsvqjtmw4dq7fvyleuls8umyrvd5umhr4gtx6asq7hqjhl]
 
 
 - ⚡ Fun fact: https://github.com/supertestnet is my virtual mentor
+
+[npub14cgq353exzmhdsvqjtmw4dq7fvyleuls8umyrvd5umhr4gtx6asq7hqjhl]: https://njump.me/npub14cgq353exzmhdsvqjtmw4dq7fvyleuls8umyrvd5umhr4gtx6asq7hqjhl
 
 <!---
 therealsupermax/therealsupermax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
