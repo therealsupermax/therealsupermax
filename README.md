@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @therealsupermax
-- 👀 I’m interested in LORD JESUS, Bitcoin, Nostr, eSats, Advanced Manufacturing, Mechatronics, other Freedom Tech & Tools
+- 👀 I’m interested in LORD JESUS, Bitcoin, Nostr, eSats, Advanced Manufacturing, Robotics, AI, Mechatronics, other Freedom Tech & Tools
 - 🌱 I’m currently learning the above interests
 - 💞️ I’m looking to collaborate on ther above interets
 - 📫 How to reach me: Nostr - npub14cgq353exzmhdsvqjtmw4dq7fvyleuls8umyrvd5umhr4gtx6asq7hqjhl
